@@ -6,5 +6,6 @@ Yellow
 Green
 Blue
 Purple
+Indigo
 
 These are the things that Unicorns love!
