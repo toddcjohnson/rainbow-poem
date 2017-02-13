@@ -1,4 +1,4 @@
-These are the colors of the rainbow and Unicorns:
+These are the colors of the rainbow and Unicorns and the Pony
 
 Pink
 Red
@@ -6,5 +6,6 @@ Yellow
 Green
 Blue
 Purple
+Pony
 
 These are the things that Unicorns love!
